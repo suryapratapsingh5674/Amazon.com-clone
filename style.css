@@ -219,6 +219,10 @@ span{
     height: 50px;
 }
 
+.foot-panel1 p:hover{
+    cursor: pointer;
+}
+
 .foot-panel2{
     background-color: #232f3e;
     color: white;
